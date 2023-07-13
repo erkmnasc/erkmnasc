@@ -14,8 +14,8 @@ I love working with automation because it allows me to combine my creativity wit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-nascimento/)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=erkmnasc&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkmnasc&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=erkmnasc&theme=dark&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkmnasc&theme=dark&hide_border=false"  width="400px" />
 
 
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=erkmnasc&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=erkmnasc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
