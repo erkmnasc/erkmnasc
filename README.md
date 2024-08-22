@@ -145,8 +145,6 @@ Let’s connect and explore how we can make a difference together!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=erkmnasc&theme=gruvbox&background=363636&border=123547&dates=FFF)](https://git.io/streak-stats)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=erkmnasc&repo=dio-lab-open-source&bg_color=363636&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF)](https://github.com/erkmnasc/dio-lab-open-source)
-
 </div>
 
 <br>
