@@ -3,7 +3,7 @@
 **Senior QA Automation Engineer** · São Paulo, Brasil
 
 Carreira em QA desde 2021, construída em instituições financeiras e ambientes
-regulados — Fiserv, B3, Bradesco e Santander. Trabalho com automação de testes
+regulados: Fiserv, B3, Bradesco e Santander. Trabalho com automação de testes
 em Java e com os sistemas que movem dinheiro: autorização e captura de
 transações, meios de pagamento e mainframe.
 
@@ -27,7 +27,7 @@ formais e rastreabilidade em ambiente sujeito a auditoria.
 
 **IA aplicada a QA.** Uso diário de GitHub Copilot na IDE, criação de agents
 que geram scripts de teste, engenharia de prompts e validação das saídas antes
-do uso — correção, coerência e aderência às regras definidas.
+do uso: correção, coerência e aderência às regras definidas.
 
 ---
 
@@ -47,13 +47,17 @@ do uso — correção, coerência e aderência às regras definidas.
 O código profissional fica nos repositórios dos clientes. Aqui estão projetos
 pessoais e de estudo, com CI em GitHub Actions.
 
-- **[ServeRest](https://github.com/erkmnasc/ServeRest)** — testes E2E e de API
+- [ServeRest](https://github.com/erkmnasc/ServeRest): testes E2E e de API
   com Cypress e JavaScript, validação de contrato, lint e pipeline no GitHub
   Actions rodando a API em container.
-- **[Projeto-Cypress-Mantis-Bug-Tracker-](https://github.com/erkmnasc/Projeto-Cypress-Mantis-Bug-Tracker-)**
-  — testes E2E de login, logout e criação de tarefa no MantisBT.
-- **[cesla-project](https://github.com/erkmnasc/cesla-project)** — testes de
-  API com Cypress, com estratégia preventiva de bugs e plano de ação.
+- [Qazando-Selenium-Webdriver-Avancado](https://github.com/erkmnasc/Qazando-Selenium-Webdriver-Avancado):
+  Java, Selenium 4 e Cucumber com Page Objects.
+- [Projeto-Cypress-Mantis-Bug-Tracker-](https://github.com/erkmnasc/Projeto-Cypress-Mantis-Bug-Tracker-):
+  testes E2E de login, logout e criação de tarefa no MantisBT.
+- [desafio-tinnova-qa](https://github.com/erkmnasc/desafio-tinnova-qa): CRUD
+  de usuários testado com CodeceptJS e WebDriver.
+- [cesla-project](https://github.com/erkmnasc/cesla-project): testes de API
+  com Cypress, com estratégia preventiva de bugs e plano de ação.
 
 ---
 
@@ -85,7 +89,7 @@ Scrum · Kanban
 ## In English
 
 **Senior QA Automation Engineer** working in QA since 2021, in financial
-institutions and regulated environments — Fiserv, B3, Bradesco and Santander.
+institutions and regulated environments: Fiserv, B3, Bradesco and Santander.
 
 Core stack is Java with RestAssured for REST APIs, BDD with Cucumber/Gherkin,
 Selenium WebDriver with Page Object Model and Cypress with JavaScript. The
@@ -103,4 +107,4 @@ specifications) · basic Spanish comprehension.
 ---
 
 > *"Como pode um cara escrever uma coisa que eu não entenda? Não tem como!
-> Eu vou ler aquela coisa até entender!"* — Clóvis de Barros Filho
+> Eu vou ler aquela coisa até entender!"* (Clóvis de Barros Filho)
