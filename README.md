@@ -1,152 +1,106 @@
-<h1 align="center" style="color: #4682B4">Erick Mendes Nascimento</h1>
+# Erick Mendes Nascimento
 
-<h3 align="center"> 🔌Conecte-se comigo / Connect with me </h3>
+**Senior QA Automation Engineer** · São Paulo, Brasil
 
-<div align="center">
+Carreira em QA desde 2021, construída em instituições financeiras e ambientes
+regulados — Fiserv, B3, Bradesco e Santander. Trabalho com automação de testes
+em Java e com os sistemas que movem dinheiro: autorização e captura de
+transações, meios de pagamento e mainframe.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-erick--nascimento-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-nascimento)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23363636.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-nascimento/)
-[![GitHub](https://img.shields.io/badge/GitHub-363636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erkmnas)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-363636?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/erick_mendes)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-363636?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511961006448?text=)  
-[![E-mail](https://img.shields.io/badge/-Email-363636?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erick_mendes@live.com)
+---
 
+## O que eu faço
 
+**Automação de testes em Java.** RestAssured para APIs REST com validação de
+schema, cenários BDD em Cucumber/Gherkin, Selenium WebDriver com Page Object
+Model e Cypress com JavaScript.
 
-</div>
-<h3 align=center>Sobre mim</h3> 
+**Sistemas financeiros.** Mensageria ISO 8583, Base24, VisionPLUS, POS,
+adquirência, PIX e pré-autorização. Automação de telas de mainframe 3270 com
+Java, SikuliX e dm3270-lib.
 
-<p>
-🚀 Olá! Eu sou Erick Nascimento, um especialista apaixonado em QA e analista de automação de testes com três anos de experiência na área. 🎯
+**Ciclo completo de qualidade.** Planejamento e estimativa de cobertura por
+frente funcional, análise de requisitos e critérios de aceite, evidências
+formais e rastreabilidade em ambiente sujeito a auditoria.
 
-Com uma base técnica sólida e um verdadeiro entusiasmo por tecnologia, dedico-me a garantir a excelência em cada projeto em que trabalho. Minha trajetória é marcada pela entrega de soluções de software de alta qualidade, sempre focando em proporcionar experiências excepcionais para os usuários e superar as expectativas dos stakeholders.
+**IA aplicada a QA.** Uso diário de GitHub Copilot na IDE, criação de agents
+que geram scripts de teste, engenharia de prompts e validação das saídas antes
+do uso — correção, coerência e aderência às regras definidas.
 
-🔍 O que eu faço?
+---
 
-Como especialista em QA e analista de automação de testes, meu trabalho envolve:
+## Alguns números
 
-Criação e execução de testes: Desde testes manuais detalhados até automação avançada, projeto e implemento testes que asseguram a funcionalidade, desempenho e segurança dos produtos.
-Experiência técnica robusta: Com profundo conhecimento em Java, CodeceptJS, Selenium, WebDriver, Cucumber, JUnit, Appium e API Rest, utilizo ferramentas modernas e técnicas de automação para otimizar processos e resolver problemas de forma criativa.
-Metodologias ágeis: Familiarizado com Scrum, utilizo ferramentas de gerenciamento de testes como Jira e QTest para garantir uma colaboração eficiente e um desenvolvimento contínuo de alta qualidade.
-Colaboração e resolução de problemas: Trabalho de perto com equipes multidisciplinares para identificar e resolver problemas rapidamente, assegurando que os produtos sejam entregues com a máxima qualidade.
-🌟 Destaques da minha trajetória:
+| | |
+|---|---|
+| **448** | cenários de pré-autorização automatizados em Java com RestAssured, a partir de collections do Postman. A suíte roda em cerca de 2 minutos. |
+| **86** | scripts em formato ISO 8583 entregues no simulador SETIS, em 13 operações do autorizador CardSE. |
+| **3 dias → 1–2** | redução no tempo de conclusão de um bloco de operação, após criar agents no GitHub Copilot para gerar os scripts de cenário. |
+| **3** | plataformas de autorização onde montei a estrutura de automação do zero: CardSE (Brasil), Nashville (México) e PosNet (Argentina). |
 
-Participei do desenvolvimento de aplicativos móveis para clientes financeiros de grande porte, como a B3, onde apliquei meus conhecimentos para entregar soluções robustas e seguras.
-Trabalhei em projetos desafiadores que me permitiram explorar uma variedade de tecnologias e ferramentas, sempre com foco em inovação e melhoria contínua.
-💡 Por que eu amo o que faço?
+---
 
-Automação de testes não é apenas uma parte do meu trabalho; é uma verdadeira paixão. A combinação de criatividade com habilidades de resolução de problemas me permite criar soluções que não apenas atendem, mas superam as expectativas dos usuários.
+## Projetos pessoais neste perfil
 
-Estou constantemente em busca de novas oportunidades para aprender e crescer profissionalmente. Se você procura um profissional dedicado, com uma paixão por qualidade e inovação, e uma experiência comprovada em garantir a excelência em software, adoraria conversar mais sobre como posso contribuir para o sucesso de sua equipe!
+O código profissional fica nos repositórios dos clientes. Aqui estão projetos
+pessoais e de estudo, com CI em GitHub Actions.
 
-Vamos conectar e explorar como podemos fazer a diferença juntos!
-</p>
+- **[ServeRest](https://github.com/erkmnasc/ServeRest)** — testes E2E e de API
+  com Cypress e JavaScript, validação de contrato, lint e pipeline no GitHub
+  Actions rodando a API em container.
+- **[Projeto-Cypress-Mantis-Bug-Tracker-](https://github.com/erkmnasc/Projeto-Cypress-Mantis-Bug-Tracker-)**
+  — testes E2E de login, logout e criação de tarefa no MantisBT.
+- **[cesla-project](https://github.com/erkmnasc/cesla-project)** — testes de
+  API com Cypress, com estratégia preventiva de bugs e plano de ação.
 
-<h3 align=center>About</h3> 
+---
 
-<p>
-🚀 Hi there! I’m Erick Nascimento, a passionate QA specialist and test automation analyst with three years of experience in the field. 🎯
+## Stack
 
-With a solid technical foundation and a genuine enthusiasm for technology, I’m dedicated to ensuring excellence in every project I work on. My career is marked by delivering high-quality software solutions, always focusing on providing exceptional user experiences and exceeding stakeholder expectations.
+**Linguagens** Java · JavaScript · SQL
 
-🔍 What do I do?
+**Automação** RestAssured · Cucumber · BDD/Gherkin · JUnit · Maven ·
+Selenium WebDriver · Page Object Model · Cypress · UFT Mobile · SikuliX ·
+dm3270-lib
 
-As a QA specialist and test automation analyst, my work involves:
+**APIs** Postman · Swagger/OpenAPI · JSON Schema Validator · testes de contrato
 
-Creating and executing tests: From detailed manual testing to advanced automation, I design and implement tests that ensure the functionality, performance, and security of products.
-Robust technical experience: With in-depth knowledge of Java, CodeceptJS, Selenium, WebDriver, Cucumber, JUnit, Appium, and REST APIs, I use modern tools and automation techniques to optimize processes and creatively solve problems.
-Agile methodologies: Familiar with Scrum, I utilize test management tools such as Jira and QTest to ensure efficient collaboration and continuous high-quality development.
-Collaboration and problem-solving: I work closely with multidisciplinary teams to identify and resolve issues quickly, ensuring that products are delivered with the highest quality.
-🌟 Highlights of my career:
+**Dados** DB2 · MySQL
 
-I’ve been involved in the development of mobile applications for major financial clients, such as B3, where I applied my knowledge to deliver robust and secure solutions.
-I’ve worked on challenging projects that allowed me to explore a variety of technologies and tools, always with a focus on innovation and continuous improvement.
-💡 Why do I love what I do?
+**Versionamento** Git · GitHub · Bitbucket · GitHub Actions (projetos pessoais)
 
-Test automation is not just a part of my job; it’s a true passion. Combining creativity with problem-solving skills allows me to create solutions that not only meet but exceed user expectations.
+**Gestão** Jira · Confluence · Zephyr · ALM Octane · QTest · ClickUp ·
+Scrum · Kanban
 
-I’m constantly seeking new opportunities to learn and grow professionally. If you’re looking for a dedicated professional with a passion for quality and innovation, and a proven track record in ensuring software excellence, I’d love to discuss how I can contribute to the success of your team!
+**IA** GitHub Copilot · agents · engenharia de prompts · validação de saídas de LLM
 
-Let’s connect and explore how we can make a difference together!
-</p>
+**Uso pontual em projetos** JMeter · SonarQube · Grafana · Jenkins
 
-<h2 align="center"> ⚒️ Habilidades / Hardskills</h2>
+**Estudando** Playwright · Robot Framework · Appium · Python · inglês · CTFL
 
-<h3 align="center">Linguagens de Programação / Programming Languages</h3>
-<div align="center">
+---
 
-![Java](https://img.shields.io/badge/java-363636.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-363636?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/python-363636?style=for-the-badge&logo=python&logoColor=white)
+## In English
 
-<h3 align="center">Teste / Testing</h3>
-<div align="center">
+**Senior QA Automation Engineer** working in QA since 2021, in financial
+institutions and regulated environments — Fiserv, B3, Bradesco and Santander.
 
-![Selenium](https://img.shields.io/badge/-selenium-363636?style=for-the-badge&logo=selenium&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-363636?style=for-the-badge&logo=cypress&logoColor=white)
+Core stack is Java with RestAssured for REST APIs, BDD with Cucumber/Gherkin,
+Selenium WebDriver with Page Object Model and Cypress with JavaScript. The
+personal projects in this profile run on GitHub Actions.
 
-<h3 align="center">Estrutura, Biblioteca / Frameworks and Libraries</h3>
-<div align="center">
+Domain is payments and transaction authorization: ISO 8583 messaging, Base24,
+VisionPLUS, POS, acquiring and pre-authorization, plus 3270 mainframe
+automation with SikuliX. Daily use of GitHub Copilot in the IDE, including
+building agents that generate test scripts and validating model output before
+it is used.
 
-![.NET](https://img.shields.io/badge/.NET-363636?style=for-the-badge&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-363636?style=for-the-badge&logo=node.js&logoColor=white)
+Portuguese native · English at a technical level (documentation, code and
+specifications) · basic Spanish comprehension.
 
-<h3 align="center">Banco de Dados / Database</h3>
-<div align="center">
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-363636?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-363636.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<h3 align="center">Sistema Operacional / Operating System</h3>
-<div align="center">
-
-![Windows](https://img.shields.io/badge/Windows-363636?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-363636?style=for-the-badge&logo=macos&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-363636?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-363636?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
-<h3 align="center">Ferramentas / Tools</h3>
-<div align="center">
-
-![Git](https://img.shields.io/badge/GIT-363636?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-363636.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-363636.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-363636.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-363636.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-363636.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-363636.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-363636?style=for-the-badge&logo=swagger&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-363636.svg?style=for-the-badge&logo=docker&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-363636?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-363636.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-363636.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-363636?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-363636.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-363636.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-363636?style=for-the-badge&logo=figma&logoColor=white)
-
-<h3 align="center">IDE</h3>
-<div align="center">
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-363636.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-363636.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-363636.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-</div>
-
-<h2 align="center"> 📋 Github Stats </h2>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erkmnasc&layout=donut&bg_color=363636&border_color=123547&title_color=EB9326&text_color=FFF)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erkmnasc&layout=donut&bg_color=363636&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=erkmnasc&theme=gruvbox&background=363636&border=123547&dates=FFF)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-
->"Como pode um cara escrever uma coisa que eu não entenda? Não tem como! Eu vou ler aquela m**** até entender!", Clóvis de Barros Filho.
+> *"Como pode um cara escrever uma coisa que eu não entenda? Não tem como!
+> Eu vou ler aquela coisa até entender!"* — Clóvis de Barros Filho
