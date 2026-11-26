@@ -47,6 +47,9 @@ do uso: correção, coerência e aderência às regras definidas.
 O código profissional fica nos repositórios dos clientes. Aqui estão projetos
 pessoais e de estudo, com CI em GitHub Actions.
 
+- [ServeRest-RestAssured](https://github.com/erkmnasc/ServeRest-RestAssured):
+  testes da API da ServeRest em Java com RestAssured, JSON Schema, JUnit e
+  cenários em Cucumber.
 - [ServeRest](https://github.com/erkmnasc/ServeRest): testes E2E e de API
   com Cypress e JavaScript, validação de contrato, lint e pipeline no GitHub
   Actions rodando a API em container.
@@ -56,8 +59,6 @@ pessoais e de estudo, com CI em GitHub Actions.
   testes E2E de login, logout e criação de tarefa no MantisBT.
 - [desafio-tinnova-qa](https://github.com/erkmnasc/desafio-tinnova-qa): CRUD
   de usuários testado com CodeceptJS e WebDriver.
-- [cesla-project](https://github.com/erkmnasc/cesla-project): testes de API
-  com Cypress, com estratégia preventiva de bugs e plano de ação.
 
 ---
 
